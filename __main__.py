@@ -94,7 +94,7 @@ def create_fullscreen_quad():
 
 
 def main_task(width=1280, height=720):
-    window=pyglet.window.Window(width,height,resizable=True,caption="Tarea 3: Agujero Negro") 
+    window=pyglet.window.Window(width,height,resizable=True,caption="Black Hole") 
     window.set_exclusive_mouse(True) # Lock and hide the mouse cursor for FPS-style control.
 
     # Enable Alpha Blending for proper transparency rendering.
@@ -243,3 +243,4 @@ def main_task(width=1280, height=720):
 
 if __name__=="__main__":
     main_task()
+
