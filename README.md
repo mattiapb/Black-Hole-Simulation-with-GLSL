@@ -1,4 +1,4 @@
-# Real-time Black Hole Simulator
+# Real-time Black Hole Simulation
 
 A real-time visualization of a Schwarzschild black hole rendered using **Ray Marching** in OpenGL (GLSL) and Python.
 
