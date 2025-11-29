@@ -50,9 +50,9 @@ To execute the simulation properly, you must run it as a Python module from the 
 3. Run the following command:
 
 ```bash
-  python -m Black-Hole
+  python -m Black-Hole-Simulation-with-GLSL-main
 ```
-
+_(or the name you gave to the containing folder)_
 ## Controls
 
 * **Mouse:**	Look around (Rotate Camera)
