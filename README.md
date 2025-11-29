@@ -4,14 +4,19 @@ A real-time visualization of a Schwarzschild black hole rendered using **Ray Mar
 
 This project simulates the physical phenomenon of **Gravitational Lensing**, where light from background stars and the accretion disk is bent by the immense gravity of the black hole. It uses a custom physics engine running entirely on the GPU (Fragment Shader) with adaptive step sizes for high performance.
 
-![Gravitational Lensing](img/4.png)
-
 ## Features
 
 * **Gravitational Lensing:** Real-time distortion of light rays based on General Relativity geodesics.
 * **Volumetric Accretion Disk:** A texturized, rotating disk with soft alpha blending and intersection logic.
 * **Free Camera:** Full WASD + Mouse control to fly around the black hole.
 
+![Gravitational Lensing](screenshots/3.png)
+
+![Accretion Disk](screenshots/4.png)
+
+![Black Hole with 2 Stars](screenshots/2.png)
+
+![Black Hole](screenshots/1.png)
 ## Requirements
 
 To run this simulation, you need the following installed on your system:
